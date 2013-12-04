@@ -14,7 +14,7 @@
 
 	body
 	{
-		background: #183026 url('../images/bg.jpg') no-repeat;
+		background: #183026 url('../images/bg-tlu.png') no-repeat;
 		background-size: cover;
 		background-position: center 0;
 		background-attachment: fixed;
@@ -1468,3 +1468,16 @@
 			{
 				opacity: 1.0;
 			}
+		
+
+img.circular {
+	width: 100px;
+	height: 100px;
+	position: relative;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	box-shadow: 0 0 12px rgba(255,255,255, .8);
+	-webkit-box-shadow: 0 0 12px rgba(255,255,255, .8);
+	-moz-box-shadow: 0 0 12px rgba(255,255,255, .8);
+	}

@@ -4,8 +4,10 @@
 	<line x1="1" y1="1" x2="45.5" y2="46" style="stroke:#fff;stroke-width:1" />
 	<line x1="90" y1="1" x2="45.5" y2="46" style="stroke:#fff;stroke-width:1" />
 	
-	<line x1="1" y1="21" x2="90" y2="21" style="stroke:#fff;stroke-width:1" />
+	<line x1="1" y1="21" x2="90" y2="21" style="stroke:#fff;stroke-width:5" />
 	<line x1="1" y1="21" x2="45.5" y2="66" style="stroke:#fff;stroke-width:1" />
 	<line x1="90" y1="21" x2="45.5" y2="66" style="stroke:#fff;stroke-width:1" />
+
+
 
 </svg>
